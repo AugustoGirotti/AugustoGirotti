@@ -1,7 +1,9 @@
 <h1 align="center">Hola! 👋, Soy Augusto Girotti</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 Actualmente estoy trabajando en un ecommerce con un grupo de la academia Henry, donde estudio actualmente **ecommerce**
+- Proyecto individual en el que se traen los datos de todos los países del mundo desde una API y se los guarda en una base de datos. Además los países pueden o no tener actividades relacionadas, estas actividades son creadas por el usuario y almacenadas en la base de datos. El usuario puede filtrar los países por continente y por actividad creada, también tiene la opción de ordenar por orden alfabético y población. Las tecnologías utilizadas son JavaScript, React JS, Redux, Node JS, Express, PostgreSQL, Squelize y CSS. [Countries](https://github.com/AugustoGirotti/Proyecto-individual-Countries)
+
+- 📫 Para contactarme **agugirotti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
